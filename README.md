@@ -1,2 +1,1 @@
-# haroldtamo.github.io
-Odoo developer
+source of website [haroldtamo.github.io](haroldtamo.github.io)
