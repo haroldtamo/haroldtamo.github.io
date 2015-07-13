@@ -13,7 +13,7 @@ locale: en_US
 twitter_username: halred
 github_username:  haroldtamo
 disqus_shortname: haroldtamo
-favicon:     "/images/favicon.ico"
+favicon:     ""
 aboutme: Hi, I'm Harold TAMO. # these are shown on aboutme-sidebar.
 aboutme_photo: /images/profilhal.jpg # your photo.
 
