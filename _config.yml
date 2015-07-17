@@ -14,7 +14,7 @@ twitter_username: halred
 github_username:  haroldtamo
 disqus_shortname: haroldtamo
 favicon:     ""
-aboutme: Hi, I'm Harold TAMO. I'm  an Odoo developer at [Y-note](http://y-note.cm/) # these are shown on aboutme-sidebar.
+aboutme: Hi, I'm Harold TAMO. I'm  an Odoo developer at <a href="http://y-note.cm/">Y-note</a> # these are shown on aboutme-sidebar.
 aboutme_photo: /images/profilhal.jpg # your photo.
 
 
