@@ -17,7 +17,7 @@ linkedin_username: haroldtamo
 gplus_username: haroldtamo
 skype_username: haroldtamo
 favicon:     ""
-aboutme: Hi, I'm Harold TAMO. I'm  an Odoo developer at <a href="http://www.y-note.cm/author/h-tamo/">Y-note</a> # these are shown on aboutme-sidebar.
+aboutme: Hi, I'm Harold TAMO. </br>I'm  an Odoo developer at <a href="http://www.y-note.cm/author/h-tamo/">Y-note</a> # these are shown on aboutme-sidebar.
 aboutme_photo: /images/profilhal.jpg # your photo.
 
 
